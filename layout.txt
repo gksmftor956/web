@@ -6,4 +6,18 @@ javascript & jQuery는
 
 WEBAPP : jquery Mobile, React, Vue.js
 
+React 공부하기
+Vue.js 공부하기
+node.js 공부하기
+cordova 공부하기
+phonegap 공부하기
+
+
+php 공부하기
+mysql 공부하기
+git 공부하기
+java 공부하기
+jsp 공부하기
+
+
 
